@@ -1,3 +1,6 @@
 This is the file which is usied to fix the bug
 
 fixe some more bugs to the application
+hello
+hello dir 
+i am fine how are you 
